@@ -44,6 +44,18 @@ Introduction about the project:
     * **/reports/html** the html test report
     * **/reports/json** the json test report
 
+  * **/stepDef**
+    * step definitions for the scenarios
+
+  * **/testData**
+    * manage all the test data
+
+  * **/Utility**
+    * the utility function for the tests
+
+  * **/conf.ts**
+    * the configuration file for the test framework
+
 ## How to run the tests:
   * Run command `node_modules/.bin/webdriver-manager update` to update the webdriver
   * Run command `node_modules/.bin/webdriver-manager start` to start the webdriver
