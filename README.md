@@ -29,13 +29,13 @@ Introduction about the project:
 
   * **/config**
     * **/config/hooks.ts** 
-    the hooks for the tests
+     *the hooks for the tests
     
     * **/config/log4js.ts** 
-    the configuration for the log
+     *the configuration for the log
     
     * **/config/Reporter.ts** 
-    the configuration for the test report
+     *the configuration for the test report
 
   * **/Features**
     * The fueature files which contain all the test scenarios  
