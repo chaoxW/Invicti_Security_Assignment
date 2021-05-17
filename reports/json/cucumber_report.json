@@ -1,0 +1,2115 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Home page sanity check",
+    "line": 1,
+    "id": "home-page-sanity-check",
+    "tags": [],
+    "uri": "Features/HomePageSanityCheck.feature",
+    "elements": [
+      {
+        "id": "home-page-sanity-check;check-the-service-category-of-the-home-page-head",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "Check the service category of the home page head",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 237000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "Enter the ONLINE BANKING LOGIN head link",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:41"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 370000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-service-category-of-the-home-page-head",
+        "keyword": "Scenario",
+        "line": 9,
+        "name": "Check the service category of the home page head",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 255000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "Enter the PERSONAL head link",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:47"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 424000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-service-category-of-the-home-page-head",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "Check the service category of the home page head",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 231000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "Enter the SMALL BUSINESS head link",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:53"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 400000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-service-category-of-the-home-page-head",
+        "keyword": "Scenario",
+        "line": 11,
+        "name": "Check the service category of the home page head",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 274000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "Enter the INSIDE ALTORO MUTUAL head link",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:59"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 420000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-subservice-of-personal-category-of-the-home-page",
+        "keyword": "Scenario",
+        "line": 19,
+        "name": "Check the subservice of personal category of the home page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 14,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 216000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "Enter the PERSONAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:74"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 260000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "Enter the Deposit Product of PERSONAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:94"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 400000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-subservice-of-personal-category-of-the-home-page",
+        "keyword": "Scenario",
+        "line": 20,
+        "name": "Check the subservice of personal category of the home page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 14,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 214000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "Enter the PERSONAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:74"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 252000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "Enter the Checking of PERSONAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:100"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 411000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-subservice-of-personal-category-of-the-home-page",
+        "keyword": "Scenario",
+        "line": 21,
+        "name": "Check the subservice of personal category of the home page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 14,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 220000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "Enter the PERSONAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:74"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 260000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "Enter the Loan Products of PERSONAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:106"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 487000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-subservice-of-personal-category-of-the-home-page",
+        "keyword": "Scenario",
+        "line": 22,
+        "name": "Check the subservice of personal category of the home page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 14,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 221000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "Enter the PERSONAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:74"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 273000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "Enter the Cards of PERSONAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:112"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 470000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-subservice-of-personal-category-of-the-home-page",
+        "keyword": "Scenario",
+        "line": 23,
+        "name": "Check the subservice of personal category of the home page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 14,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 216000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "Enter the PERSONAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:74"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 250000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "Enter the Investments & Insurance of PERSONAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:118"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3308000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-subservice-of-personal-category-of-the-home-page",
+        "keyword": "Scenario",
+        "line": 24,
+        "name": "Check the subservice of personal category of the home page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 14,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 218000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "Enter the PERSONAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:74"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 259000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "Enter the Other Services of PERSONAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:124"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 406000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-subservice-of-small-busniess-category-of-the-home-page",
+        "keyword": "Scenario",
+        "line": 32,
+        "name": "Check the subservice of small busniess category of the home page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 27,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 213000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 28,
+            "name": "Enter the SMALL BUSINESS category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:80"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 271000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 29,
+            "name": "Enter the Deposit Products of SMALL BUSINESS category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:132"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 403000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-subservice-of-small-busniess-category-of-the-home-page",
+        "keyword": "Scenario",
+        "line": 33,
+        "name": "Check the subservice of small busniess category of the home page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 27,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 210000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 28,
+            "name": "Enter the SMALL BUSINESS category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:80"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 273000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 29,
+            "name": "Enter the Lending Services of SMALL BUSINESS category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:138"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 409000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-subservice-of-small-busniess-category-of-the-home-page",
+        "keyword": "Scenario",
+        "line": 34,
+        "name": "Check the subservice of small busniess category of the home page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 27,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 226000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 28,
+            "name": "Enter the SMALL BUSINESS category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:80"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 261000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 29,
+            "name": "Enter the Cards of SMALL BUSINESS category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:144"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 404000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-subservice-of-small-busniess-category-of-the-home-page",
+        "keyword": "Scenario",
+        "line": 35,
+        "name": "Check the subservice of small busniess category of the home page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 27,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 215000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 28,
+            "name": "Enter the SMALL BUSINESS category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:80"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 273000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 29,
+            "name": "Enter the Insurance of SMALL BUSINESS category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:150"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 476000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-subservice-of-small-busniess-category-of-the-home-page",
+        "keyword": "Scenario",
+        "line": 36,
+        "name": "Check the subservice of small busniess category of the home page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 27,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 262000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 28,
+            "name": "Enter the SMALL BUSINESS category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:80"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 255000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 29,
+            "name": "Enter the Other Services of SMALL BUSINESS category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:162"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 394000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-subservice-of-inside-altoro-mutual-category-of-the-home-page",
+        "keyword": "Scenario",
+        "line": 45,
+        "name": "Check the subservice of inside altoro mutual category of the home page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 40,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 249000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 41,
+            "name": "Enter the INSIDE ALTORO MUTUAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:86"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 258000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 42,
+            "name": "Enter About Us of INSIDE ALTORO MUTUAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:170"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 408000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-subservice-of-inside-altoro-mutual-category-of-the-home-page",
+        "keyword": "Scenario",
+        "line": 46,
+        "name": "Check the subservice of inside altoro mutual category of the home page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 40,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 216000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 41,
+            "name": "Enter the INSIDE ALTORO MUTUAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:86"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 271000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 42,
+            "name": "Enter Contact Us of INSIDE ALTORO MUTUAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:176"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 573000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-subservice-of-inside-altoro-mutual-category-of-the-home-page",
+        "keyword": "Scenario",
+        "line": 48,
+        "name": "Check the subservice of inside altoro mutual category of the home page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 40,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 219000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 41,
+            "name": "Enter the INSIDE ALTORO MUTUAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:86"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 277000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 42,
+            "name": "Enter Investor Relations of INSIDE ALTORO MUTUAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:188"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 416000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-subservice-of-inside-altoro-mutual-category-of-the-home-page",
+        "keyword": "Scenario",
+        "line": 49,
+        "name": "Check the subservice of inside altoro mutual category of the home page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 40,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 213000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 41,
+            "name": "Enter the INSIDE ALTORO MUTUAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:86"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 255000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 42,
+            "name": "Enter Press Room of INSIDE ALTORO MUTUAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:194"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 412000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-subservice-of-inside-altoro-mutual-category-of-the-home-page",
+        "keyword": "Scenario",
+        "line": 50,
+        "name": "Check the subservice of inside altoro mutual category of the home page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 40,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 219000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 41,
+            "name": "Enter the INSIDE ALTORO MUTUAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:86"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 261000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 42,
+            "name": "Enter Careers of INSIDE ALTORO MUTUAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:200"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 420000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-subservice-of-inside-altoro-mutual-category-of-the-home-page",
+        "keyword": "Scenario",
+        "line": 51,
+        "name": "Check the subservice of inside altoro mutual category of the home page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 40,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 220000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 41,
+            "name": "Enter the INSIDE ALTORO MUTUAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:86"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 252000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 42,
+            "name": "Enter Subscribe of INSIDE ALTORO MUTUAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:206"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 257000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "keyword": "Feature",
+    "name": "Home page login and logout",
+    "line": 1,
+    "id": "home-page-login-and-logout",
+    "tags": [],
+    "uri": "Features/LoginAndLogout.feature",
+    "elements": [
+      {
+        "id": "home-page-login-and-logout;login-with-sign-in-link",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Login with sign in link",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 216000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "I navigate to Sign In",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 346000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "Login with default username and password",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:215"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1619000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "I select first account",
+            "match": {
+              "location": "stepDef/LoginandLogout.ts:46"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1023000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "Sign off from the system",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:221"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 416000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-login-and-logout;login-with-sign-in-link-without-password",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "Login with sign in link without password",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 11,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 220000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 12,
+            "name": "I navigate to Sign In",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 356000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "Enter with default username",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:227"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 40000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "Click the login button",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:241"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 114000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 15,
+            "name": "Accept the alert from the system",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:256"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1011000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-login-and-logout;login-with-sign-in-link-without-pass-after-accept-alert-sign-in-with-pass",
+        "keyword": "Scenario",
+        "line": 17,
+        "name": "Login with sign in link without pass after accept alert sign in with pass",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 18,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 404000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 19,
+            "name": "I navigate to Sign In",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 364000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 20,
+            "name": "Enter with default username",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:227"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 45000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 21,
+            "name": "Click the login button",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:241"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 103000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 22,
+            "name": "Accept the alert from the system",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:256"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1008000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "Enter with default password",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:234"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 49000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 24,
+            "name": "Click the login button",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:241"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 371000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 25,
+            "name": "I navigate to account page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:248"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 40000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 26,
+            "name": "Sign off from the system",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:221"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 401000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-login-and-logout;login-from-online-banking-login-and-check-first-account",
+        "keyword": "Scenario",
+        "line": 29,
+        "name": "Login from ONLINE BANKING LOGIN and check first account",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 30,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 213000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 31,
+            "name": "Enter the ONLINE BANKING LOGIN head link",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:41"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 363000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 32,
+            "name": "Login with default username and password",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:215"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1564000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 33,
+            "name": "I select first account",
+            "match": {
+              "location": "stepDef/LoginandLogout.ts:46"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 999000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 34,
+            "name": "Sign off from the system",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:221"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 390000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-login-and-logout;login-from-online-banking-login-and-check-second-account",
+        "keyword": "Scenario",
+        "line": 36,
+        "name": "Login from ONLINE BANKING LOGIN and check second account",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 37,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 199000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 38,
+            "name": "Enter the ONLINE BANKING LOGIN head link",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:41"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 353000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 39,
+            "name": "Login with default username and password",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:215"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1562000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 40,
+            "name": "I select second account",
+            "match": {
+              "location": "stepDef/LoginandLogout.ts:53"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1050000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 41,
+            "name": "Sign off from the system",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:221"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 388000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-login-and-logout;login-from-online-banking-login-and-check-account",
+        "keyword": "Scenario",
+        "line": 43,
+        "name": "Login from ONLINE BANKING LOGIN and check account",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 44,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 204000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 45,
+            "name": "Enter the ONLINE BANKING LOGIN head link",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:41"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 355000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 46,
+            "name": "Login with default username and password",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:215"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1555000000
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "accountName"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "800000 Corporate"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "800001 Checking"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "And ",
+            "line": 47,
+            "name": "I select account",
+            "match": {
+              "location": "stepDef/LoginandLogout.ts:24"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2451000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 51,
+            "name": "Sign off from the system",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:221"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 393000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

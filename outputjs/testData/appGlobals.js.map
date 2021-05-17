@@ -1,0 +1,1 @@
+{"version":3,"file":"appGlobals.js","sourceRoot":"","sources":["../../testData/appGlobals.ts"],"names":[],"mappings":";AAAA,MAAM,CAAC,OAAO,GAAG;IACf,eAAe,EAAE,2BAA2B;IAC5C,QAAQ,EACN;QACE;YACE,SAAS,EAAE,KAAK;YAChB,QAAQ,EAAE,KAAK;YACf,QAAQ,EAAE,OAAO;SAClB;QACD;YACE,SAAS,EAAE,MAAM;YACjB,QAAQ,EAAE,KAAK;YACf,QAAQ,EAAE,QAAQ;SACnB;KACF;CACJ,CAAA"}
