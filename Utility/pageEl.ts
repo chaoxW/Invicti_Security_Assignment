@@ -78,20 +78,6 @@ export class pageEl {
         return (await this.getElement()).getId();
     }
 
-    //elem.get(9).getText();
-    //this.radiobtns.get(6).click()
-
-    // async selectByOptionText(text: string) {
-    //     try {
-    //         await (await this.getElement()).findElement(by.xpath('option[.= "' + text + '"]')).click();
-    //         log.debug("Selected " + text + " from " + this.byEL);
-    //     }
-    //     catch (ex) {
-    //         log.debug(ex);
-    //         throw new Error(ex);
-    //     }
-    // }
-
     async selectByOptionText(text: string) {
         try {
             await (await this.getElement()).findElement(by.xpath('option[.= "' + text + '"]')).click();
