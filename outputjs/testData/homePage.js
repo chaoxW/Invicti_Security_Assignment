@@ -43,11 +43,6 @@ module.exports = {
     "investorRelationsLk": "//a[@id='MenuHyperLink16']",
     "pressRoomLk": "//a[@id='MenuHyperLink17']",
     "careersLk": "//a[@id='MenuHyperLink18']",
-    "subscribeLk": "//a[@id='MenuHyperLink19']",
-    "customers": {
-        "firstname": "John",
-        "lastname": "Carry",
-        "postalcode": "87654"
-    }
+    "subscribeLk": "//a[@id='MenuHyperLink19']"
 };
 //# sourceMappingURL=homePage.js.map
