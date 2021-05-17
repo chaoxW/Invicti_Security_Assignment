@@ -28,13 +28,13 @@ Introduction about the project:
     *  cucumber auto complete configuration
 
   * **/config**
-    * **/config/hooks.ts** 
+    1 **/config/hooks.ts** 
      * the hooks for the tests
     
-    * **/config/log4js.ts** 
+    2 **/config/log4js.ts** 
      * the configuration for the log
     
-    * **/config/Reporter.ts** 
+    3 **/config/Reporter.ts** 
      * the configuration for the test report
 
   * **/Features**
@@ -50,4 +50,4 @@ Introduction about the project:
 ## How to run the tests:
   * Run command `node_modules/.bin/webdriver-manager update` to update the webdriver
   * Run command `node_modules/.bin/webdriver-manager start` to start the webdriver
-  * * Run command `npm run test` to run the test
+  * Run command `npm run test` to run the test
