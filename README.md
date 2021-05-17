@@ -28,14 +28,11 @@ Introduction about the project:
     *  cucumber auto complete configuration
 
   * **/config**
-    1 **/config/hooks.ts** 
-     * the hooks for the tests
+    * **/config/hooks.ts** the hooks for the tests
     
-    2 **/config/log4js.ts** 
-     * the configuration for the log
+    * **/config/log4js.ts** the configuration for the log
     
-    3 **/config/Reporter.ts** 
-     * the configuration for the test report
+    * **/config/Reporter.ts** the configuration for the test report
 
   * **/Features**
     * The fueature files which contain all the test scenarios  
