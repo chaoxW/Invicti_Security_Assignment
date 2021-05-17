@@ -41,15 +41,11 @@ var AccountPage_1 = require("../pages/AccountPage");
 var TestFireHomePage_1 = require("../pages/TestFireHomePage");
 var _ = require('lodash');
 var homePage = new TestFireHomePage_1.HomePage();
-//let chai = require('chai').use(require('chai-as-promised'));
-//let expect = chai.expect;
 var expect = require('chai').expect;
 var setDefaultTimeout = require('cucumber').setDefaultTimeout;
 setDefaultTimeout(60 * 1000);
 var log = require("../config/log4js").default;
-// const addCustPage: AddCustomerPage = new AddCustomerPage();
 var openAccount = new AccountPage_1.AccountPage();
-// And I select accountName
 cucumber_1.Then(/^I select account$/, function (table) { return __awaiter(void 0, void 0, void 0, function () {
     var firstAccount, scondAccount, rows, _a, _b;
     return __generator(this, function (_c) {
@@ -95,7 +91,6 @@ cucumber_1.Then(/^I select account$/, function (table) { return __awaiter(void 0
         }
     });
 }); });
-// And I select first account
 cucumber_1.Then(/^I select first account$/, function () { return __awaiter(void 0, void 0, void 0, function () {
     var _a;
     return __generator(this, function (_b) {
