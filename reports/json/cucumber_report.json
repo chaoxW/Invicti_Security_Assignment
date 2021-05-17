@@ -21,11 +21,11 @@
             "line": 4,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 237000000
+              "duration": 245000000
             }
           },
           {
@@ -34,11 +34,11 @@
             "line": 5,
             "name": "Enter the ONLINE BANKING LOGIN head link",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:41"
+              "location": "stepDef/HomePageSanityCheck.ts:33"
             },
             "result": {
               "status": "passed",
-              "duration": 370000000
+              "duration": 517000000
             }
           },
           {
@@ -79,11 +79,11 @@
             "line": 4,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 255000000
+              "duration": 298000000
             }
           },
           {
@@ -92,11 +92,11 @@
             "line": 5,
             "name": "Enter the PERSONAL head link",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:47"
+              "location": "stepDef/HomePageSanityCheck.ts:39"
             },
             "result": {
               "status": "passed",
-              "duration": 424000000
+              "duration": 599000000
             }
           },
           {
@@ -137,11 +137,11 @@
             "line": 4,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 231000000
+              "duration": 220000000
             }
           },
           {
@@ -150,11 +150,11 @@
             "line": 5,
             "name": "Enter the SMALL BUSINESS head link",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:53"
+              "location": "stepDef/HomePageSanityCheck.ts:45"
             },
             "result": {
               "status": "passed",
-              "duration": 400000000
+              "duration": 1540000000
             }
           },
           {
@@ -195,11 +195,11 @@
             "line": 4,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 274000000
+              "duration": 353000000
             }
           },
           {
@@ -208,11 +208,11 @@
             "line": 5,
             "name": "Enter the INSIDE ALTORO MUTUAL head link",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:59"
+              "location": "stepDef/HomePageSanityCheck.ts:51"
             },
             "result": {
               "status": "passed",
-              "duration": 420000000
+              "duration": 418000000
             }
           },
           {
@@ -234,7 +234,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 0
+              "duration": 1000000
             }
           }
         ]
@@ -253,11 +253,11 @@
             "line": 14,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 216000000
+              "duration": 232000000
             }
           },
           {
@@ -266,11 +266,11 @@
             "line": 15,
             "name": "Enter the PERSONAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:74"
+              "location": "stepDef/HomePageSanityCheck.ts:60"
             },
             "result": {
               "status": "passed",
-              "duration": 260000000
+              "duration": 389000000
             }
           },
           {
@@ -279,11 +279,11 @@
             "line": 16,
             "name": "Enter the Deposit Product of PERSONAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:94"
+              "location": "stepDef/HomePageSanityCheck.ts:80"
             },
             "result": {
               "status": "passed",
-              "duration": 400000000
+              "duration": 619000000
             }
           },
           {
@@ -324,11 +324,11 @@
             "line": 14,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 214000000
+              "duration": 431000000
             }
           },
           {
@@ -337,11 +337,11 @@
             "line": 15,
             "name": "Enter the PERSONAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:74"
+              "location": "stepDef/HomePageSanityCheck.ts:60"
             },
             "result": {
               "status": "passed",
-              "duration": 252000000
+              "duration": 251000000
             }
           },
           {
@@ -350,11 +350,11 @@
             "line": 16,
             "name": "Enter the Checking of PERSONAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:100"
+              "location": "stepDef/HomePageSanityCheck.ts:86"
             },
             "result": {
               "status": "passed",
-              "duration": 411000000
+              "duration": 457000000
             }
           },
           {
@@ -365,7 +365,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 0
             }
           },
           {
@@ -395,11 +395,11 @@
             "line": 14,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 220000000
+              "duration": 338000000
             }
           },
           {
@@ -408,11 +408,11 @@
             "line": 15,
             "name": "Enter the PERSONAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:74"
+              "location": "stepDef/HomePageSanityCheck.ts:60"
             },
             "result": {
               "status": "passed",
-              "duration": 260000000
+              "duration": 255000000
             }
           },
           {
@@ -421,11 +421,11 @@
             "line": 16,
             "name": "Enter the Loan Products of PERSONAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:106"
+              "location": "stepDef/HomePageSanityCheck.ts:92"
             },
             "result": {
               "status": "passed",
-              "duration": 487000000
+              "duration": 443000000
             }
           },
           {
@@ -466,11 +466,11 @@
             "line": 14,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 221000000
+              "duration": 354000000
             }
           },
           {
@@ -479,11 +479,11 @@
             "line": 15,
             "name": "Enter the PERSONAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:74"
+              "location": "stepDef/HomePageSanityCheck.ts:60"
             },
             "result": {
               "status": "passed",
-              "duration": 273000000
+              "duration": 382000000
             }
           },
           {
@@ -492,11 +492,11 @@
             "line": 16,
             "name": "Enter the Cards of PERSONAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:112"
+              "location": "stepDef/HomePageSanityCheck.ts:98"
             },
             "result": {
               "status": "passed",
-              "duration": 470000000
+              "duration": 637000000
             }
           },
           {
@@ -537,11 +537,11 @@
             "line": 14,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 216000000
+              "duration": 223000000
             }
           },
           {
@@ -550,11 +550,11 @@
             "line": 15,
             "name": "Enter the PERSONAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:74"
+              "location": "stepDef/HomePageSanityCheck.ts:60"
             },
             "result": {
               "status": "passed",
-              "duration": 250000000
+              "duration": 258000000
             }
           },
           {
@@ -563,11 +563,11 @@
             "line": 16,
             "name": "Enter the Investments & Insurance of PERSONAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:118"
+              "location": "stepDef/HomePageSanityCheck.ts:104"
             },
             "result": {
               "status": "passed",
-              "duration": 3308000000
+              "duration": 3327000000
             }
           },
           {
@@ -608,11 +608,11 @@
             "line": 14,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 218000000
+              "duration": 405000000
             }
           },
           {
@@ -621,11 +621,11 @@
             "line": 15,
             "name": "Enter the PERSONAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:74"
+              "location": "stepDef/HomePageSanityCheck.ts:60"
             },
             "result": {
               "status": "passed",
-              "duration": 259000000
+              "duration": 248000000
             }
           },
           {
@@ -634,11 +634,11 @@
             "line": 16,
             "name": "Enter the Other Services of PERSONAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:124"
+              "location": "stepDef/HomePageSanityCheck.ts:110"
             },
             "result": {
               "status": "passed",
-              "duration": 406000000
+              "duration": 454000000
             }
           },
           {
@@ -679,11 +679,11 @@
             "line": 27,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 213000000
+              "duration": 345000000
             }
           },
           {
@@ -692,11 +692,11 @@
             "line": 28,
             "name": "Enter the SMALL BUSINESS category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:80"
+              "location": "stepDef/HomePageSanityCheck.ts:66"
             },
             "result": {
               "status": "passed",
-              "duration": 271000000
+              "duration": 252000000
             }
           },
           {
@@ -705,11 +705,11 @@
             "line": 29,
             "name": "Enter the Deposit Products of SMALL BUSINESS category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:132"
+              "location": "stepDef/HomePageSanityCheck.ts:118"
             },
             "result": {
               "status": "passed",
-              "duration": 403000000
+              "duration": 473000000
             }
           },
           {
@@ -750,11 +750,11 @@
             "line": 27,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 210000000
+              "duration": 322000000
             }
           },
           {
@@ -763,11 +763,11 @@
             "line": 28,
             "name": "Enter the SMALL BUSINESS category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:80"
+              "location": "stepDef/HomePageSanityCheck.ts:66"
             },
             "result": {
               "status": "passed",
-              "duration": 273000000
+              "duration": 258000000
             }
           },
           {
@@ -776,11 +776,11 @@
             "line": 29,
             "name": "Enter the Lending Services of SMALL BUSINESS category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:138"
+              "location": "stepDef/HomePageSanityCheck.ts:124"
             },
             "result": {
               "status": "passed",
-              "duration": 409000000
+              "duration": 476000000
             }
           },
           {
@@ -802,7 +802,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 0
             }
           }
         ]
@@ -821,11 +821,11 @@
             "line": 27,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 226000000
+              "duration": 310000000
             }
           },
           {
@@ -834,11 +834,11 @@
             "line": 28,
             "name": "Enter the SMALL BUSINESS category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:80"
+              "location": "stepDef/HomePageSanityCheck.ts:66"
             },
             "result": {
               "status": "passed",
-              "duration": 261000000
+              "duration": 256000000
             }
           },
           {
@@ -847,11 +847,11 @@
             "line": 29,
             "name": "Enter the Cards of SMALL BUSINESS category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:144"
+              "location": "stepDef/HomePageSanityCheck.ts:130"
             },
             "result": {
               "status": "passed",
-              "duration": 404000000
+              "duration": 535000000
             }
           },
           {
@@ -892,11 +892,11 @@
             "line": 27,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 215000000
+              "duration": 421000000
             }
           },
           {
@@ -905,11 +905,11 @@
             "line": 28,
             "name": "Enter the SMALL BUSINESS category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:80"
+              "location": "stepDef/HomePageSanityCheck.ts:66"
             },
             "result": {
               "status": "passed",
-              "duration": 273000000
+              "duration": 255000000
             }
           },
           {
@@ -918,11 +918,11 @@
             "line": 29,
             "name": "Enter the Insurance of SMALL BUSINESS category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:150"
+              "location": "stepDef/HomePageSanityCheck.ts:136"
             },
             "result": {
               "status": "passed",
-              "duration": 476000000
+              "duration": 607000000
             }
           },
           {
@@ -944,7 +944,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 0
+              "duration": 1000000
             }
           }
         ]
@@ -963,11 +963,11 @@
             "line": 27,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 262000000
+              "duration": 224000000
             }
           },
           {
@@ -976,11 +976,11 @@
             "line": 28,
             "name": "Enter the SMALL BUSINESS category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:80"
+              "location": "stepDef/HomePageSanityCheck.ts:66"
             },
             "result": {
               "status": "passed",
-              "duration": 255000000
+              "duration": 345000000
             }
           },
           {
@@ -989,11 +989,11 @@
             "line": 29,
             "name": "Enter the Other Services of SMALL BUSINESS category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:162"
+              "location": "stepDef/HomePageSanityCheck.ts:148"
             },
             "result": {
               "status": "passed",
-              "duration": 394000000
+              "duration": 475000000
             }
           },
           {
@@ -1004,7 +1004,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 0
             }
           },
           {
@@ -1034,11 +1034,11 @@
             "line": 40,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 249000000
+              "duration": 225000000
             }
           },
           {
@@ -1047,11 +1047,11 @@
             "line": 41,
             "name": "Enter the INSIDE ALTORO MUTUAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:86"
+              "location": "stepDef/HomePageSanityCheck.ts:72"
             },
             "result": {
               "status": "passed",
-              "duration": 258000000
+              "duration": 410000000
             }
           },
           {
@@ -1060,11 +1060,11 @@
             "line": 42,
             "name": "Enter About Us of INSIDE ALTORO MUTUAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:170"
+              "location": "stepDef/HomePageSanityCheck.ts:156"
             },
             "result": {
               "status": "passed",
-              "duration": 408000000
+              "duration": 599000000
             }
           },
           {
@@ -1105,11 +1105,11 @@
             "line": 40,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 216000000
+              "duration": 230000000
             }
           },
           {
@@ -1118,11 +1118,11 @@
             "line": 41,
             "name": "Enter the INSIDE ALTORO MUTUAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:86"
+              "location": "stepDef/HomePageSanityCheck.ts:72"
             },
             "result": {
               "status": "passed",
-              "duration": 271000000
+              "duration": 259000000
             }
           },
           {
@@ -1131,11 +1131,11 @@
             "line": 42,
             "name": "Enter Contact Us of INSIDE ALTORO MUTUAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:176"
+              "location": "stepDef/HomePageSanityCheck.ts:162"
             },
             "result": {
               "status": "passed",
-              "duration": 573000000
+              "duration": 548000000
             }
           },
           {
@@ -1157,7 +1157,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 0
             }
           }
         ]
@@ -1176,11 +1176,11 @@
             "line": 40,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 219000000
+              "duration": 235000000
             }
           },
           {
@@ -1189,11 +1189,11 @@
             "line": 41,
             "name": "Enter the INSIDE ALTORO MUTUAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:86"
+              "location": "stepDef/HomePageSanityCheck.ts:72"
             },
             "result": {
               "status": "passed",
-              "duration": 277000000
+              "duration": 248000000
             }
           },
           {
@@ -1202,11 +1202,11 @@
             "line": 42,
             "name": "Enter Investor Relations of INSIDE ALTORO MUTUAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:188"
+              "location": "stepDef/HomePageSanityCheck.ts:174"
             },
             "result": {
               "status": "passed",
-              "duration": 416000000
+              "duration": 562000000
             }
           },
           {
@@ -1247,11 +1247,11 @@
             "line": 40,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 213000000
+              "duration": 935000000
             }
           },
           {
@@ -1260,11 +1260,11 @@
             "line": 41,
             "name": "Enter the INSIDE ALTORO MUTUAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:86"
+              "location": "stepDef/HomePageSanityCheck.ts:72"
             },
             "result": {
               "status": "passed",
-              "duration": 255000000
+              "duration": 344000000
             }
           },
           {
@@ -1273,11 +1273,11 @@
             "line": 42,
             "name": "Enter Press Room of INSIDE ALTORO MUTUAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:194"
+              "location": "stepDef/HomePageSanityCheck.ts:180"
             },
             "result": {
               "status": "passed",
-              "duration": 412000000
+              "duration": 415000000
             }
           },
           {
@@ -1318,11 +1318,11 @@
             "line": 40,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 219000000
+              "duration": 403000000
             }
           },
           {
@@ -1331,11 +1331,11 @@
             "line": 41,
             "name": "Enter the INSIDE ALTORO MUTUAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:86"
+              "location": "stepDef/HomePageSanityCheck.ts:72"
             },
             "result": {
               "status": "passed",
-              "duration": 261000000
+              "duration": 254000000
             }
           },
           {
@@ -1344,11 +1344,82 @@
             "line": 42,
             "name": "Enter Careers of INSIDE ALTORO MUTUAL category",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:200"
+              "location": "stepDef/HomePageSanityCheck.ts:186"
             },
             "result": {
               "status": "passed",
-              "duration": 420000000
+              "duration": 619000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "home-page-sanity-check;check-the-subservice-of-inside-altoro-mutual-category-of-the-home-page",
+        "keyword": "Scenario",
+        "line": 51,
+        "name": "Check the subservice of inside altoro mutual category of the home page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 40,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 238000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 41,
+            "name": "Enter the INSIDE ALTORO MUTUAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:72"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 353000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 42,
+            "name": "Enter Subscribe of INSIDE ALTORO MUTUAL category",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:192"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 471000000
             }
           },
           {
@@ -1371,77 +1442,6 @@
             "result": {
               "status": "passed",
               "duration": 1000000
-            }
-          }
-        ]
-      },
-      {
-        "id": "home-page-sanity-check;check-the-subservice-of-inside-altoro-mutual-category-of-the-home-page",
-        "keyword": "Scenario",
-        "line": 51,
-        "name": "Check the subservice of inside altoro mutual category of the home page",
-        "tags": [],
-        "type": "scenario",
-        "steps": [
-          {
-            "arguments": [],
-            "keyword": "Given ",
-            "line": 40,
-            "name": "I am on Test Fire home page",
-            "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 220000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "When ",
-            "line": 41,
-            "name": "Enter the INSIDE ALTORO MUTUAL category",
-            "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:86"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 252000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Then ",
-            "line": 42,
-            "name": "Enter Subscribe of INSIDE ALTORO MUTUAL category",
-            "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:206"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 257000000
-            }
-          },
-          {
-            "keyword": "After",
-            "hidden": true,
-            "match": {
-              "location": "config/hooks.ts:19"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 0
-            }
-          },
-          {
-            "keyword": "After",
-            "hidden": true,
-            "match": {
-              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 0
             }
           }
         ]
@@ -1470,11 +1470,11 @@
             "line": 4,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 216000000
+              "duration": 229000000
             }
           },
           {
@@ -1483,11 +1483,11 @@
             "line": 5,
             "name": "I navigate to Sign In",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:31"
+              "location": "stepDef/HomePageSanityCheck.ts:26"
             },
             "result": {
               "status": "passed",
-              "duration": 346000000
+              "duration": 459000000
             }
           },
           {
@@ -1496,11 +1496,11 @@
             "line": 6,
             "name": "Login with default username and password",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:215"
+              "location": "stepDef/HomePageSanityCheck.ts:201"
             },
             "result": {
               "status": "passed",
-              "duration": 1619000000
+              "duration": 1762000000
             }
           },
           {
@@ -1513,7 +1513,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1023000000
+              "duration": 1036000000
             }
           },
           {
@@ -1522,11 +1522,11 @@
             "line": 8,
             "name": "Sign off from the system",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:221"
+              "location": "stepDef/HomePageSanityCheck.ts:207"
             },
             "result": {
               "status": "passed",
-              "duration": 416000000
+              "duration": 437000000
             }
           },
           {
@@ -1537,7 +1537,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 0
             }
           },
           {
@@ -1567,11 +1567,11 @@
             "line": 11,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 220000000
+              "duration": 430000000
             }
           },
           {
@@ -1580,11 +1580,11 @@
             "line": 12,
             "name": "I navigate to Sign In",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:31"
+              "location": "stepDef/HomePageSanityCheck.ts:26"
             },
             "result": {
               "status": "passed",
-              "duration": 356000000
+              "duration": 405000000
             }
           },
           {
@@ -1593,11 +1593,11 @@
             "line": 13,
             "name": "Enter with default username",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:227"
+              "location": "stepDef/HomePageSanityCheck.ts:213"
             },
             "result": {
               "status": "passed",
-              "duration": 40000000
+              "duration": 35000000
             }
           },
           {
@@ -1606,11 +1606,11 @@
             "line": 14,
             "name": "Click the login button",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:241"
+              "location": "stepDef/HomePageSanityCheck.ts:227"
             },
             "result": {
               "status": "passed",
-              "duration": 114000000
+              "duration": 101000000
             }
           },
           {
@@ -1619,11 +1619,11 @@
             "line": 15,
             "name": "Accept the alert from the system",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:256"
+              "location": "stepDef/HomePageSanityCheck.ts:240"
             },
             "result": {
               "status": "passed",
-              "duration": 1011000000
+              "duration": 1010000000
             }
           },
           {
@@ -1645,7 +1645,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 0
+              "duration": 1000000
             }
           }
         ]
@@ -1664,11 +1664,11 @@
             "line": 18,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 404000000
+              "duration": 424000000
             }
           },
           {
@@ -1677,11 +1677,11 @@
             "line": 19,
             "name": "I navigate to Sign In",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:31"
+              "location": "stepDef/HomePageSanityCheck.ts:26"
             },
             "result": {
               "status": "passed",
-              "duration": 364000000
+              "duration": 429000000
             }
           },
           {
@@ -1690,11 +1690,11 @@
             "line": 20,
             "name": "Enter with default username",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:227"
+              "location": "stepDef/HomePageSanityCheck.ts:213"
             },
             "result": {
               "status": "passed",
-              "duration": 45000000
+              "duration": 37000000
             }
           },
           {
@@ -1703,11 +1703,11 @@
             "line": 21,
             "name": "Click the login button",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:241"
+              "location": "stepDef/HomePageSanityCheck.ts:227"
             },
             "result": {
               "status": "passed",
-              "duration": 103000000
+              "duration": 92000000
             }
           },
           {
@@ -1716,7 +1716,7 @@
             "line": 22,
             "name": "Accept the alert from the system",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:256"
+              "location": "stepDef/HomePageSanityCheck.ts:240"
             },
             "result": {
               "status": "passed",
@@ -1729,33 +1729,7 @@
             "line": 23,
             "name": "Enter with default password",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:234"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 49000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "And ",
-            "line": 24,
-            "name": "Click the login button",
-            "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:241"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 371000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "And ",
-            "line": 25,
-            "name": "I navigate to account page",
-            "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:248"
+              "location": "stepDef/HomePageSanityCheck.ts:220"
             },
             "result": {
               "status": "passed",
@@ -1764,112 +1738,41 @@
           },
           {
             "arguments": [],
-            "keyword": "Then ",
-            "line": 26,
-            "name": "Sign off from the system",
+            "keyword": "And ",
+            "line": 24,
+            "name": "Click the login button",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:221"
+              "location": "stepDef/HomePageSanityCheck.ts:227"
             },
             "result": {
               "status": "passed",
-              "duration": 401000000
-            }
-          },
-          {
-            "keyword": "After",
-            "hidden": true,
-            "match": {
-              "location": "config/hooks.ts:19"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 0
-            }
-          },
-          {
-            "keyword": "After",
-            "hidden": true,
-            "match": {
-              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 0
-            }
-          }
-        ]
-      },
-      {
-        "id": "home-page-login-and-logout;login-from-online-banking-login-and-check-first-account",
-        "keyword": "Scenario",
-        "line": 29,
-        "name": "Login from ONLINE BANKING LOGIN and check first account",
-        "tags": [],
-        "type": "scenario",
-        "steps": [
-          {
-            "arguments": [],
-            "keyword": "Given ",
-            "line": 30,
-            "name": "I am on Test Fire home page",
-            "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 213000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "When ",
-            "line": 31,
-            "name": "Enter the ONLINE BANKING LOGIN head link",
-            "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:41"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 363000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Then ",
-            "line": 32,
-            "name": "Login with default username and password",
-            "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:215"
-            },
-            "result": {
-              "status": "passed",
-              "duration": 1564000000
+              "duration": 626000000
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
-            "line": 33,
-            "name": "I select first account",
+            "line": 25,
+            "name": "I navigate to account page",
             "match": {
-              "location": "stepDef/LoginandLogout.ts:46"
+              "location": "stepDef/HomePageSanityCheck.ts:234"
             },
             "result": {
               "status": "passed",
-              "duration": 999000000
+              "duration": 33000000
             }
           },
           {
             "arguments": [],
             "keyword": "Then ",
-            "line": 34,
+            "line": 26,
             "name": "Sign off from the system",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:221"
+              "location": "stepDef/HomePageSanityCheck.ts:207"
             },
             "result": {
               "status": "passed",
-              "duration": 390000000
+              "duration": 499000000
             }
           },
           {
@@ -1897,6 +1800,103 @@
         ]
       },
       {
+        "id": "home-page-login-and-logout;login-from-online-banking-login-and-check-first-account",
+        "keyword": "Scenario",
+        "line": 29,
+        "name": "Login from ONLINE BANKING LOGIN and check first account",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 30,
+            "name": "I am on Test Fire home page",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 330000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 31,
+            "name": "Enter the ONLINE BANKING LOGIN head link",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 399000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 32,
+            "name": "Login with default username and password",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:201"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1826000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 33,
+            "name": "I select first account",
+            "match": {
+              "location": "stepDef/LoginandLogout.ts:46"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1029000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 34,
+            "name": "Sign off from the system",
+            "match": {
+              "location": "stepDef/HomePageSanityCheck.ts:207"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 502000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "config/hooks.ts:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules/protractor-cucumber-framework/lib/resultsCapturer.js:27"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ]
+      },
+      {
         "id": "home-page-login-and-logout;login-from-online-banking-login-and-check-second-account",
         "keyword": "Scenario",
         "line": 36,
@@ -1910,11 +1910,11 @@
             "line": 37,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 199000000
+              "duration": 195000000
             }
           },
           {
@@ -1923,11 +1923,11 @@
             "line": 38,
             "name": "Enter the ONLINE BANKING LOGIN head link",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:41"
+              "location": "stepDef/HomePageSanityCheck.ts:33"
             },
             "result": {
               "status": "passed",
-              "duration": 353000000
+              "duration": 506000000
             }
           },
           {
@@ -1936,11 +1936,11 @@
             "line": 39,
             "name": "Login with default username and password",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:215"
+              "location": "stepDef/HomePageSanityCheck.ts:201"
             },
             "result": {
               "status": "passed",
-              "duration": 1562000000
+              "duration": 1538000000
             }
           },
           {
@@ -1953,7 +1953,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1050000000
+              "duration": 1113000000
             }
           },
           {
@@ -1962,11 +1962,11 @@
             "line": 41,
             "name": "Sign off from the system",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:221"
+              "location": "stepDef/HomePageSanityCheck.ts:207"
             },
             "result": {
               "status": "passed",
-              "duration": 388000000
+              "duration": 516000000
             }
           },
           {
@@ -2007,11 +2007,11 @@
             "line": 44,
             "name": "I am on Test Fire home page",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:22"
+              "location": "stepDef/HomePageSanityCheck.ts:19"
             },
             "result": {
               "status": "passed",
-              "duration": 204000000
+              "duration": 241000000
             }
           },
           {
@@ -2020,11 +2020,11 @@
             "line": 45,
             "name": "Enter the ONLINE BANKING LOGIN head link",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:41"
+              "location": "stepDef/HomePageSanityCheck.ts:33"
             },
             "result": {
               "status": "passed",
-              "duration": 355000000
+              "duration": 309000000
             }
           },
           {
@@ -2033,11 +2033,11 @@
             "line": 46,
             "name": "Login with default username and password",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:215"
+              "location": "stepDef/HomePageSanityCheck.ts:201"
             },
             "result": {
               "status": "passed",
-              "duration": 1555000000
+              "duration": 1538000000
             }
           },
           {
@@ -2070,7 +2070,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2451000000
+              "duration": 2218000000
             }
           },
           {
@@ -2079,11 +2079,11 @@
             "line": 51,
             "name": "Sign off from the system",
             "match": {
-              "location": "stepDef/HomePageSanityCheck.ts:221"
+              "location": "stepDef/HomePageSanityCheck.ts:207"
             },
             "result": {
               "status": "passed",
-              "duration": 393000000
+              "duration": 374000000
             }
           },
           {

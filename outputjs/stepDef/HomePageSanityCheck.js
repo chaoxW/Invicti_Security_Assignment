@@ -40,8 +40,6 @@ var cucumber_1 = require("cucumber");
 var TestFireHomePage_1 = require("../pages/TestFireHomePage");
 var Util_1 = require("../Utility/Util");
 var _ = require('lodash');
-//let chai = require('chai').use(require('chai-as-promised'));
-//let expect = chai.expect;
 var expect = require('chai').expect;
 var setDefaultTimeout = require('cucumber').setDefaultTimeout;
 setDefaultTimeout(60 * 1000);
@@ -79,13 +77,8 @@ cucumber_1.Then(/^I navigate to Sign In$/, function () { return __awaiter(void 0
                 _b.sent();
                 _a = expect;
                 return [4 /*yield*/, homePage.validateHeading.getText('validateHeading')];
-            case 2: 
-            // await browser.sleep(10000);
-            // log.debug(await homePage.signIn.getText('signIn'));
-            return [4 /*yield*/, _a.apply(void 0, [_b.sent()]).include("Online Banking Login")];
+            case 2: return [4 /*yield*/, _a.apply(void 0, [_b.sent()]).include("Online Banking Login")];
             case 3:
-                // await browser.sleep(10000);
-                // log.debug(await homePage.signIn.getText('signIn'));
                 _b.sent();
                 return [2 /*return*/];
         }
@@ -166,11 +159,6 @@ cucumber_1.Then(/^Enter the INSIDE ALTORO MUTUAL head link$/, function () { retu
 }); });
 // ***************************************************************************************************
 // *************************************** category links ********************************************
-// Then(/^Enter the ONLINE BANKING LOGIN link$/, async () => {
-//     log.debug("enter ONLINE BANKING LOGIN category");
-//     await homePage.navigateToOnlineBankingLogin();
-//     await expect(await homePage.validateHeading.getText('validateHeading')).include("Online Banking Login");
-// })
 cucumber_1.Then(/^Enter the PERSONAL category$/, function () { return __awaiter(void 0, void 0, void 0, function () {
     var _a;
     return __generator(this, function (_b) {
@@ -671,7 +659,6 @@ cucumber_1.Then(/^I navigate to account page$/, function () { return __awaiter(v
         }
     });
 }); });
-// Accept the alert from the system
 cucumber_1.Then(/^Accept the alert from the system$/, function () { return __awaiter(void 0, void 0, void 0, function () {
     return __generator(this, function (_a) {
         switch (_a.label) {

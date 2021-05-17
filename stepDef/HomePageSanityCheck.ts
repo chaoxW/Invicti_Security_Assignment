@@ -6,9 +6,6 @@ import { browser } from "protractor";
 
 
 var _ = require('lodash');
-
-//let chai = require('chai').use(require('chai-as-promised'));
-//let expect = chai.expect;
 const expect = require('chai').expect;
 
 var { setDefaultTimeout } = require('cucumber');
@@ -24,17 +21,12 @@ Given(/^I am on Test Fire home page$/, async () => {
     log.debug("I am on Test Fire home page");
     await homePage.navigateToHomePage();
     await expect(await homePage.validateHomePage.getText('validateHomePage')).include("Online Banking with FREE Online Bill Pay");
-    // await expect(await homePage.homeLogo.getId()).equal("HyperLink1");
-    // await homePage.navigateToHomePage();
 });
 // * sing in 
 Then(/^I navigate to Sign In$/, async () => {
     log.debug("Navigate to sign in");
     await homePage.navigateToSignIN();
-    // await browser.sleep(10000);
-    // log.debug(await homePage.signIn.getText('signIn'));
     await expect(await homePage.validateHeading.getText('validateHeading')).include("Online Banking Login");
-    //await browser.sleep(2000);
 })
 // ******************************************* head links ********************************************
 
@@ -65,12 +57,6 @@ Then(/^Enter the INSIDE ALTORO MUTUAL head link$/, async () => {
 
 
 // *************************************** category links ********************************************
-// Then(/^Enter the ONLINE BANKING LOGIN link$/, async () => {
-//     log.debug("enter ONLINE BANKING LOGIN category");
-//     await homePage.navigateToOnlineBankingLogin();
-//     await expect(await homePage.validateHeading.getText('validateHeading')).include("Online Banking Login");
-// })
-
 Then(/^Enter the PERSONAL category$/, async () => {
     log.debug("enter PERSONAL category");
     await homePage.navigateToPersonalCat();
@@ -250,8 +236,6 @@ Then(/^I navigate to account page$/, async () => {
     log.debug("I navigate to account page");
     await expect(await homePage.validateHeading.getText('validateHeading')).include("Hello Admin User");
 })
-
-// Accept the alert from the system
 
 Then(/^Accept the alert from the system$/, async () => {
 

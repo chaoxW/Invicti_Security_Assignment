@@ -1,7 +1,7 @@
-[2021-05-17T09:39:36.217] [DEBUG] default - Clicked on By(xpath, //a[@id='MenuHyperLink1'])
-[2021-05-17T09:39:36.218] [DEBUG] default - Sign off from the system
-[2021-05-17T09:39:36.572] [DEBUG] default - Clicked on By(xpath, //a[@id='LoginLink'])
-[2021-05-17T09:39:36.610] [DEBUG] default - Fetched value as Online Banking with FREE Online Bill Pay
+[2021-05-17T10:51:12.618] [DEBUG] default - Clicked on By(xpath, //a[@id='MenuHyperLink1'])
+[2021-05-17T10:51:12.619] [DEBUG] default - Sign off from the system
+[2021-05-17T10:51:12.962] [DEBUG] default - Clicked on By(xpath, //a[@id='LoginLink'])
+[2021-05-17T10:51:12.992] [DEBUG] default - Fetched value as Online Banking with FREE Online Bill Pay
 No stamps, envelopes, or checks to write give you more time to spend on the things you enjoy.
 
 
@@ -20,4 +20,4 @@ The 2000 employees of Altoro Mutual are dedicated to protecting your privacy and
 
 Win a Samsung Galaxy S10 smartphone
 Completing this short survey will enter you in a draw for 1 of 5 Samsung Galaxy S10 smartphones! We look forward to hearing your important feedback. from validateHomePage
-[2021-05-17T09:39:36.612] [DEBUG] default - AfterAll
+[2021-05-17T10:51:12.994] [DEBUG] default - AfterAll

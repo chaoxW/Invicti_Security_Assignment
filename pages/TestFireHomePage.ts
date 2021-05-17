@@ -50,7 +50,7 @@ export class HomePage {
     // homepage validation xpath
     homepageValidateXpath = this.homePageData.homePageValidate;
     homelogoXpath = this.homePageData.homeLogo;
-    // username password xpath
+    // input username password xpath
     usernameXpath = this.homePageData.usernameInput;
     passwordXpath = this.homePageData.passwordInput;
     loginbtnXpath = this.homePageData.loginBtn;
@@ -115,7 +115,6 @@ export class HomePage {
     }
     // * homapge link
     async navigateToHomePage() {
-        // await this.homeLogo.click();
         await browser.get(this.Site.demoTestFireUrl);
     }
     //*  personal head link
@@ -235,26 +234,21 @@ export class HomePage {
         await this.passWord.sendKeys(this.password);
         await this.loginBtn.click();
         await browser.sleep(1000);
-        // await Util.VerifyAndCloseAlert("demo");
     }
 
     async insertUserName() {
         await this.userName.sendKeys(this.username);
-        // await browser.sleep(1000);
     }
 
     async insertPassword() {
         await this.passWord.sendKeys(this.password);
-        // await browser.sleep(1000);
     }
 
     async clickLoginBtn() {
         await this.loginBtn.click();
-        // await browser.sleep(1000);
     }
 
     async clickSignOff() {
         await this.signOff.click();
-        // await browser.sleep(1000);
     }
 }

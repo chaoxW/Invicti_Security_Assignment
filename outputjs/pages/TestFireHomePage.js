@@ -83,7 +83,7 @@ var HomePage = /** @class */ (function () {
         // homepage validation xpath
         this.homepageValidateXpath = this.homePageData.homePageValidate;
         this.homelogoXpath = this.homePageData.homeLogo;
-        // username password xpath
+        // input username password xpath
         this.usernameXpath = this.homePageData.usernameInput;
         this.passwordXpath = this.homePageData.passwordInput;
         this.loginbtnXpath = this.homePageData.loginBtn;
@@ -153,11 +153,8 @@ var HomePage = /** @class */ (function () {
         return __awaiter(this, void 0, void 0, function () {
             return __generator(this, function (_a) {
                 switch (_a.label) {
-                    case 0: 
-                    // await this.homeLogo.click();
-                    return [4 /*yield*/, protractor_1.browser.get(this.Site.demoTestFireUrl)];
+                    case 0: return [4 /*yield*/, protractor_1.browser.get(this.Site.demoTestFireUrl)];
                     case 1:
-                        // await this.homeLogo.click();
                         _a.sent();
                         return [2 /*return*/];
                 }

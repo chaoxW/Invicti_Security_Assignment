@@ -7,7 +7,6 @@ const log = require("../config/log4js").default;
 export class AccountPage {
 
     accountPageData = require("../testdata/AccountPage");
-    // selectAccounts = new pageEl(by.xpath("//select[@id='listAccounts']"))
 
     fisrtAccount = this.accountPageData.fisrtAccount;
     secondAccount = this.accountPageData.secondAccount;

@@ -42,7 +42,6 @@ var log = require("../config/log4js").default;
 var AccountPage = /** @class */ (function () {
     function AccountPage() {
         this.accountPageData = require("../testdata/AccountPage");
-        // selectAccounts = new pageEl(by.xpath("//select[@id='listAccounts']"))
         this.fisrtAccount = this.accountPageData.fisrtAccount;
         this.secondAccount = this.accountPageData.secondAccount;
         this.selectaccountsXpath = this.accountPageData.selectAccounts;
