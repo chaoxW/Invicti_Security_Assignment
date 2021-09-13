@@ -5,7 +5,7 @@
   * contact: Shuai Wang (shuai.wang.kaos@gmail.com)
 -->
 
-# Invicti_Security_Assignment
+# TS_Protractor_Cucumber
 
 Use protractor and cucumber to make the automation test, use POM(page object module) to build the test framework.
 
